@@ -8,7 +8,7 @@ Al entrar en el archivo ```app.js``` podran ver con explicación la lógica detr
 
 1-Para ingresar los nombres debes escribir un nombre y apretar el botonn "añadir".
 
-1.1-<h3> Tienes que ingresar al menos 1 nombre para que la pagina pueda sortear un amigo secreto, sino retornara un error </h3>
+<h3> Tienes que ingresar al menos 1 nombre para que la pagina pueda sortear un amigo secreto, sino retornara un error </h3>
 
 2-Despues de ingresar los nombres, se iran mostrando en la pantalla en forma de lista.
 
